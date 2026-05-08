@@ -6,7 +6,7 @@
 
 <!-- ===== Animated Header Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Alex%20Carter&fontSize=52&fontAlignY=36&fontColor=ffffff&desc=Full%20Stack%20AI%20Developer&descAlignY=58&descSize=20&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Seshagiri%20Pentapati&fontSize=52&fontAlignY=36&fontColor=ffffff&desc=Full%20Stack%20AI%20Developer&descAlignY=58&descSize=20&animation=fadeIn" alt="header" />
 </p>
 
 <!-- ===== Animated Typing Intro ===== -->
