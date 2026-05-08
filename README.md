@@ -12,7 +12,7 @@
 <!-- ===== Animated Typing Intro ===== -->
 <p align="center">
   <a href="https://github.com/seshagiri-pentapati">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Developer+%F0%9F%A4%96;Building+with+LLMs%2C+RAG+%26+Agents;Next.js+%2B+FastAPI+%2B+Vector+DBs;Open+Source+Contributor+%E2%9C%A8" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Developer+%F0%9F%A4%96;Building+with+LLMs%2C+RAG+%26+Agents;React,Next.js+%2B+Node,FastAPI+%2B+Vector+DBs;Open+Source+Contributor+%E2%9C%A8" alt="typing" />
   </a>
 </p>
 
