@@ -17,7 +17,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 > Senior Software Engineer with 4.5+ years of experience designing and building scalable full-stack applications. Started as a frontend engineer and progressively expanded into backend development, microservices, distributed systems, and system design — taking ownership of end-to-end application architecture.
 
