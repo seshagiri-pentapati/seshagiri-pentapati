@@ -18,13 +18,13 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-> Senior Software Engineer with 4.5+ years of experience designing and building scalable full-stack applications. Started as a frontend engineer and progressively expanded into backend development, microservices, distributed systems, and system design — taking ownership of end-to-end application architecture.
-
 ---
 
 ## Professional Summary
 
-Senior Software Engineer with 4.5+ years of experience designing and building scalable full-stack applications using React, TypeScript, Node.js, NestJS, Angular, PostgreSQL, and AWS. Experienced in building enterprise SaaS platforms and real-time applications, optimizing performance, implementing reusable architectures, and integrating AI-powered solutions. Passionate about writing clean, maintainable code and delivering scalable software through modern engineering practices.
+- Senior Software Engineer with 4.5+ years of experience designing and building scalable full-stack applications using React, TypeScript, Node.js, NestJS, Angular, PostgreSQL, and AWS.
+- Experienced in building enterprise SaaS platforms, real-time applications, microservices, distributed systems, and AI-powered solutions, with expertise spanning frontend and backend development, system design, performance optimization, and reusable architecture.
+- Passionate about writing clean, maintainable code and delivering scalable software through modern engineering practices while taking ownership of end-to-end application architecture.
 
 ## Achievements
 
@@ -45,17 +45,9 @@ Senior Software Engineer with 4.5+ years of experience designing and building sc
 
 ## Professional Experience
 
-### iSpace Inc (Client: KornFerry) — Hyderabad, India
-
-**Software Engineer** | Dec 2024 – Present
-
-### ENTAIN India (Formerly IVY COMPTECH) — Hyderabad, India
-
-**Software Engineer** | Dec 2021 – Dec 2024
-
-### The 10x Academy
-
-**Full Stack Developer Intern** | May 2021 – Dec 2021
+- iSpace Inc (Client: KornFerry) — Senior Software Engineer, Dec 2024 – Present
+- ENTAIN India (Formerly IVY COMPTECH) — Software Engineer, Dec 2021 – Dec 2024
+- The 10x Academy — Full Stack Developer Intern, May 2021 – Dec 2021
 
 ## Education
 
