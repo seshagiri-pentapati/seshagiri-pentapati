@@ -1,136 +1,81 @@
-<!-- =========================================================
-   Seshagiri Pentapati — Full Stack AI Developer
-   GitHub Profile README
-   Replace "yourusername" with your GitHub username everywhere.
-   ========================================================= -->
+## Hi, I'm Seshagiri Pentapati 👋
 
-<!-- ===== Animated Header Banner ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Seshagiri%20Pentapati&fontSize=52&fontAlignY=36&fontColor=ffffff&desc=Full%20Stack%20AI%20Developer&descAlignY=58&descSize=20&animation=fadeIn" alt="header" />
-</p>
+📍 **Hyderabad, India** | ✉️ **seshagiri.pentapati.lead@gmail.com**
 
-<!-- ===== Animated Typing Intro ===== -->
-<p align="center">
-  <a href="https://github.com/seshagiri-pentapati">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Developer+%F0%9F%A4%96;Building+with+LLMs%2C+RAG+%26+Agents;React,Next.js+%2B+Node,FastAPI+%2B+Vector+DBs;Open+Source+Contributor+%E2%9C%A8" alt="typing" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-seshagiri--pentapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seshagiri-pentapati)
+[![GitHub](https://img.shields.io/badge/-seshagiri--pentapati-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seshagiri-pentapati)
+[![LeetCode](https://img.shields.io/badge/-seshagiri--pentapati-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/seshagiri-pentapati)
 
-<!-- ===== Profile Views + Followers + Stars ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seshagiri-pentapati&label=Profile%20views&color=22d3ee&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/seshagiri-pentapati?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0f172a" alt="followers" />
-  <img src="https://img.shields.io/github/stars/seshagiri-pentapati?label=Stars&style=for-the-badge&color=fbbf24&labelColor=0f172a" alt="stars" />
-</p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+> Senior Software Engineer with 4.5+ years of experience designing and building scalable full-stack applications. Started as a frontend engineer and progressively expanded into backend development, microservices, distributed systems, and system design — taking ownership of end-to-end application architecture.
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## Professional Summary
 
-```ts
-const Seshagiri = {
-  role:        "Full Stack AI Developer",
-  location:    "Hyderabad, India",
-  stack:       ["JavaScript", "TypeScript", "Python", "React", "Angular", "NodeJs", "NestJs", "Next.js", "FastAPI", "Postgres", "MongoDb"],
-  ai:          ["OpenAI", "Anthropic", "LangChain", "LlamaIndex", "pgvector"],
-  currently:   "Building agentic workflows for SaaS",
-  learning:    ["Multi-agent systems", "Edge inference", "Fine-tuning"],
-  funFact:     "I ship to prod on Fridays — covered by tests, of course.",
-}
-```
+Senior Software Engineer with 4.5+ years of experience designing and building scalable full-stack applications using React, TypeScript, Node.js, NestJS, Angular, PostgreSQL, and AWS. Experienced in building enterprise SaaS platforms and real-time applications, optimizing performance, implementing reusable architectures, and integrating AI-powered solutions. Passionate about writing clean, maintainable code and delivering scalable software through modern engineering practices.
 
-- 🤖 Full Stack AI Developer building production-grade apps with LLMs, RAG and agentic workflows
-- 🚀 Currently shipping AI-native products with Next.js, React, Node, Nest, FastAPI and vector databases
-- 🧠 Exploring multi-agent systems, fine-tuning open-source models and edge inference
-- 🤝 Open to collaborating on open-source AI tools and developer experience projects
-- 📫 Reach me at: pentapatilokesh@gmail.com
+## Achievements
 
----
+- 🏆 **Manager's Award – Best Performance (2023)** — Entain India
+- 💡 Solved **700+ Data Structures & Algorithms** problems across LeetCode and SPOJ
+- 📚 Completed professional software engineering courses from Udemy and GeeksforGeeks
 
-### 🛠️ Tech Stack
+## Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,nextjs,react,nodejs,fastapi,django,tailwind,prisma,postgres,redis,mongodb,docker,kubernetes,aws,vercel,git&perline=10" alt="tech stack" />
-</p>
+| Category                | Skills                                                                                                           |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Languages**           | JavaScript (ES6+), TypeScript                                                                                    |
+| **Frontend**            | React, Next.js, Angular, HTML5, CSS3, Tailwind CSS, Zustand, Redux, NgRx, RxJS                                   |
+| **Backend**             | Node.js, NestJS, Express.js, REST APIs, Microservices, Event-Driven Architecture, WebSockets                     |
+| **Databases & Caching** | PostgreSQL, MongoDB, Redis                                                                                       |
+| **Cloud & DevOps**      | AWS (EC2, Lambda, S3, RDS), Docker, Kubernetes, Git, Jenkins, CI/CD                                              |
+| **Architecture**        | System Design, Micro Frontends, Design Patterns, Performance Optimization, Caching Strategies, High Availability |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+## Professional Experience
 
----
+### iSpace Inc (Client: KornFerry) — Hyderabad, India
 
-### 📊 GitHub Stats
+**Software Engineer** | Dec 2024 – Present
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=seshagiri-pentapati&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=e2e8f0&bg_color=0f172a&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=seshagiri-pentapati&hide_border=true&background=0f172a&stroke=22d3ee&ring=22d3ee&fire=fbbf24&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=e2e8f0&dates=94a3b8&sideNums=e2e8f0" alt="streak" />
-</p>
+### ENTAIN India (Formerly IVY COMPTECH) — Hyderabad, India
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seshagiri-pentapati&layout=compact&hide_border=true&title_color=22d3ee&text_color=e2e8f0&bg_color=0f172a&langs_count=10" alt="top languages" />
-</p>
+**Software Engineer** | Dec 2021 – Dec 2024
 
----
+### The 10x Academy
 
-### 🏆 Trophies
+**Full Stack Developer Intern** | May 2021 – Dec 2021
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seshagiri-pentapati&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-</p>
+## Education
+
+**Bachelor of Technology** — SRKR Engineering College | 2018 – 2021 | CGPA: 8.2
+
+## Courses
+
+| Course                                                  | Duration            |
+| ------------------------------------------------------- | ------------------- |
+| Advanced DSA & Full Stack Course — Career Accelerator M | Sep 2025 – Ongoing  |
+| AI First Software Engineer Cohort — AirTribe            | June 2025 – Ongoing |
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-seshagiri--pentapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seshagiri-pentapati)
+[![GitHub](https://img.shields.io/badge/-seshagiri--pentapati-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seshagiri-pentapati)
+[![LeetCode](https://img.shields.io/badge/-seshagiri--pentapati-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/seshagiri-pentapati)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seshagiri.pentapati.lead@gmail.com)
 
 ---
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seshagiri-pentapati&theme=react-dark&hide_border=true&bg_color=0f172a&color=22d3ee&line=22d3ee&point=fbbf24&area=true&area_color=22d3ee" alt="activity graph" />
-</p>
-
-<!-- Snake animation — see the SETUP GUIDE for the GitHub Action that generates this -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seshagiri-pentapati/seshagiri-pentapati/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/seshagiri-pentapati">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/seshagiri-pentapati">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://seshagiri-pentapati">
-    <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:pentapatilokesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/seshagiri-pentapati">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
-</p>
-
----
-
-### 💬 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-</p>
-
-<!-- ===== Animated Footer ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" alt="footer" />
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/seshagiri-pentapati">seshagiri-pentapati</a> — thanks for stopping by!</i>
-</p>
+> Building scalable systems that solve real problems.
