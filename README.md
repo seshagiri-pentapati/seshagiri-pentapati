@@ -45,9 +45,7 @@
 | **Cloud & DevOps**      | AWS (EC2, Lambda, S3, RDS), Docker, Kubernetes, Git, Jenkins, CI/CD                                              |
 | **Architecture**        | System Design, Micro Frontends, Design Patterns, Performance Optimization, Caching Strategies, High Availability |
 
-## Projects
-
-### Real Projects
+## Personal projects
 
 | Project                                                                                        | Description                                                                | Stack                          |
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------ |
