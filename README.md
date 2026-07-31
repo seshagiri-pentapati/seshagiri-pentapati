@@ -4,8 +4,6 @@
 
 📍 **Hyderabad, India** | ✉️ **seshagiri.pentapati.lead@gmail.com**
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Hi+There!+👋;+I'm+Seshagiri+Pentapati!;Senior+Software+Engineer;Full+Stack+Developer" />
-
 [![LinkedIn](https://img.shields.io/badge/-seshagiri--pentapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seshagiri-pentapati)
 [![GitHub](https://img.shields.io/badge/-seshagiri--pentapati-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seshagiri-pentapati)
 [![LeetCode](https://img.shields.io/badge/-seshagiri--pentapati-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/seshagiri-pentapati)
