@@ -24,26 +24,14 @@
 
 ## Professional Summary
 
-- Senior Software Engineer with 4.5+ years of experience designing and building scalable full-stack applications using React, TypeScript, Node.js, NestJS, Angular, PostgreSQL, and AWS.
-- Experienced in building enterprise SaaS platforms, real-time applications, microservices, distributed systems, and AI-powered solutions, with expertise spanning frontend and backend development, system design, performance optimization, and reusable architecture.
-- Passionate about writing clean, maintainable code and delivering scalable software through modern engineering practices while taking ownership of end-to-end application architecture.
+- Senior Software Engineer with 4.5+ years of experience designing and building scalable full-stack applications.
+- Enterprise SaaS platforms, real-time applications, microservices, distributed systems, and AI-powered solutions.
 
 ## Achievements
 
 - 🏆 **Manager's Award – Best Performance (2023)** — Entain India
 - 💡 Solved **700+ Data Structures & Algorithms** problems across LeetCode and SPOJ
 - 📚 Completed professional software engineering courses from Udemy and GeeksforGeeks
-
-## Technical Skills
-
-| Category                | Skills                                                                                                           |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Languages**           | JavaScript (ES6+), TypeScript                                                                                    |
-| **Frontend**            | React, Next.js, Angular, HTML5, CSS3, Tailwind CSS, Zustand, Redux, NgRx, RxJS                                   |
-| **Backend**             | Node.js, NestJS, Express.js, REST APIs, Microservices, Event-Driven Architecture, WebSockets                     |
-| **Databases & Caching** | PostgreSQL, MongoDB, Redis                                                                                       |
-| **Cloud & DevOps**      | AWS (EC2, Lambda, S3, RDS), Docker, Kubernetes, Git, Jenkins, CI/CD                                              |
-| **Architecture**        | System Design, Micro Frontends, Design Patterns, Performance Optimization, Caching Strategies, High Availability |
 
 ## Personal projects
 
@@ -68,6 +56,17 @@
 | 📓 **[my-notes](https://github.com/seshagiri-pentapati/my-notes)**                             | DSA practice files + study notes + learning guides + AI workshop notebooks | JavaScript, Markdown, Python   |
 | 🧩 **[leetcode-solutions](https://github.com/seshagiri-pentapati/leetcode-solutions)**         | LeetCode problem solutions                                                 | JavaScript                     |
 
+## Technical Skills
+
+| Category                | Skills                                                                                                           |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Languages**           | JavaScript (ES6+), TypeScript                                                                                    |
+| **Frontend**            | React, Next.js, Angular, HTML5, CSS3, Tailwind CSS, Zustand, Redux, NgRx, RxJS                                   |
+| **Backend**             | Node.js, NestJS, Express.js, REST APIs, Microservices, Event-Driven Architecture, WebSockets                     |
+| **Databases & Caching** | PostgreSQL, MongoDB, Redis                                                                                       |
+| **Cloud & DevOps**      | AWS (EC2, Lambda, S3, RDS), Docker, Kubernetes, Git, Jenkins, CI/CD                                              |
+| **Architecture**        | System Design, Micro Frontends, Design Patterns, Performance Optimization, Caching Strategies, High Availability |
+
 ## Professional Experience
 
 - iSpace Inc (Client: KornFerry) — Senior Software Engineer, Dec 2024 – Present
@@ -76,7 +75,7 @@
 
 ## Education
 
-**Bachelor of Technology** — SRKR Engineering College | 2018 – 2021 | CGPA: 8.2
+- **Bachelor of Technology** — SRKR Engineering College | 2018 – 2021 | CGPA: 8.2
 
 ## Courses
 
