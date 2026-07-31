@@ -62,6 +62,41 @@
 | Advanced DSA & Full Stack Course — Career Accelerator M | Sep 2025 – Ongoing  |
 | AI First Software Engineer Cohort — AirTribe            | June 2025 – Ongoing |
 
+## Projects
+
+### Real Projects
+
+| Project                                                                      | Description                                                                  | Stack                            |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------- |
+| 🧠 **[candidate-matcher](https://github.com/seshagiri-pentapati/candidate-matcher)** | AI candidate matching system with RAG & vector database                       | Python, LangChain, RAG           |
+| 🚀 **[mission-control](https://github.com/seshagiri-pentapati/mission-control)**     | NASA/SpaceX mission control web application                                  | React, Node.js, Express          |
+| 📇 **[contacts-app](https://github.com/seshagiri-pentapati/contacts-app)**           | MERN contacts manager with user authentication                               | React, Node.js, MongoDB          |
+| 📸 **[insta-clone](https://github.com/seshagiri-pentapati/insta-clone)**             | Instagram clone with user authentication and context API state               | React, Node.js, MongoDB          |
+| ✂️ **[snippet-share](https://github.com/seshagiri-pentapati/snippet-share)**         | Snippet sharing app with Firebase and video processing                       | Angular, Firebase, FFmpeg        |
+| 🎪 **[event-platform](https://github.com/seshagiri-pentapati/event-platform)**       | Virtual event management platform with auth, scheduling, participants        | Node.js, Express, Swagger        |
+| 💰 **[finedge-api](https://github.com/seshagiri-pentapati/finedge-api)**             | Personal finance tracker API with accounts, transactions, categories         | Node.js, Express, MongoDB        |
+| 📝 **[blog-api](https://github.com/seshagiri-pentapati/blog-api)**                   | RealWorld/Conduit blog API with CRUD and JWT auth                            | Node.js, Koa, Knex, PostgreSQL   |
+| 🛒 **[mcp-shop](https://github.com/seshagiri-pentapati/mcp-shop)**                   | MCP e-commerce server with CRUD and AI-powered descriptions                  | Node.js, MCP SDK, MySQL          |
+| ✅ **[task-api](https://github.com/seshagiri-pentapati/task-api)**                   | Task management REST API with filters and sorting                            | Node.js, Express                 |
+| 🧺 **[laundry-app](https://github.com/seshagiri-pentapati/laundry-app)**             | Laundry service app (backend + frontend)                                     | Node.js, React                   |
+| 🎮 **[whizz-kid](https://github.com/seshagiri-pentapati/whizz-kid)**                 | Browser-based platformer game built with Phaser                              | JavaScript, Phaser, Webpack      |
+
+### Practice
+
+| Project                                                                      | Description                                                                  | Stack                            |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------- |
+| ⚛️ **[react-practice](https://github.com/seshagiri-pentapati/react-practice)**       | Vite + React app with 6 demos + 2 guide websites                             | React, Vite, React Router        |
+| 🅰️ **[angular-practice](https://github.com/seshagiri-pentapati/angular-practice)**   | Angular 17 app with 3 demos + guide + 2 course repos                         | Angular, NgRx, RxJS              |
+| 🟢 **[node-practice](https://github.com/seshagiri-pentapati/node-practice)**         | Express app with 6 route groups + 4 guide websites                           | Node.js, Express, Passport       |
+| 🔷 **[typescript-js-practice](https://github.com/seshagiri-pentapati/typescript-js-practice)** | TypeScript project covering all core concepts and patterns                   | TypeScript, JavaScript           |
+
+### Notes
+
+| Project                                                                      | Description                                                                  | Stack                            |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------- |
+| 📓 **[my-notes](https://github.com/seshagiri-pentapati/my-notes)**                 | DSA practice files + study notes + learning guides + AI workshop notebooks   | JavaScript, Markdown, Python     |
+| 🧩 **[leetcode-solutions](https://github.com/seshagiri-pentapati/leetcode-solutions)** | LeetCode problem solutions                                                   | JavaScript                       |
+
 ## GitHub Stats
 
 <p align="center">
