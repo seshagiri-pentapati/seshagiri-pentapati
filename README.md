@@ -1,6 +1,10 @@
 ## Hi, I'm Seshagiri Pentapati 👋
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=seshagiri-pentapati" />
+
 📍 **Hyderabad, India** | ✉️ **seshagiri.pentapati.lead@gmail.com**
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Hi+There!+👋;+I'm+Seshagiri+Pentapati!;Senior+Software+Engineer;Full+Stack+Developer" />
 
 [![LinkedIn](https://img.shields.io/badge/-seshagiri--pentapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seshagiri-pentapati)
 [![GitHub](https://img.shields.io/badge/-seshagiri--pentapati-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seshagiri-pentapati)
@@ -59,6 +63,19 @@
 | ------------------------------------------------------- | ------------------- |
 | Advanced DSA & Full Stack Course — Career Accelerator M | Sep 2025 – Ongoing  |
 | AI First Software Engineer Cohort — AirTribe            | June 2025 – Ongoing |
+
+## GitHub Stats
+
+<p align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=seshagiri-pentapati&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=seshagiri-pentapati&theme=react&border_radius=10" alt="streak stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seshagiri-pentapati&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</p>
+
+## Contributions
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/seshagiri-pentapati/seshagiri-pentapati/output/github-contribution-grid-snake-dark.svg" />
 
 ## Connect
 
