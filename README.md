@@ -56,7 +56,6 @@
 | 🅰️ **[angular-practice](https://github.com/seshagiri-pentapati/angular-practice)**             | Angular 17 app with 3 demos + guide + 2 course repos                       | Angular, NgRx, RxJS            |
 | 🟢 **[node-practice](https://github.com/seshagiri-pentapati/node-practice)**                   | Express app with 6 route groups + 4 guide websites                         | Node.js, Express, Passport     |
 | 🔷 **[typescript-js-practice](https://github.com/seshagiri-pentapati/typescript-js-practice)** | TypeScript project covering all core concepts and patterns                 | TypeScript, JavaScript         |
-| 📓 **[my-notes](https://github.com/seshagiri-pentapati/my-notes)**                             | DSA practice files + study notes + learning guides + AI workshop notebooks | JavaScript, Markdown, Python   |
 | 🧩 **[leetcode-solutions](https://github.com/seshagiri-pentapati/leetcode-solutions)**         | LeetCode problem solutions                                                 | JavaScript                     |
 
 ## Technical Skills
