@@ -49,6 +49,9 @@
 | 💰 **[finedge-api](https://github.com/seshagiri-pentapati/finedge-api)**                       | Personal finance tracker API with accounts, transactions, categories       | Node.js, Express, MongoDB      |
 | 🛒 **[mcp-shop](https://github.com/seshagiri-pentapati/mcp-shop)**                             | MCP e-commerce server with CRUD and AI-powered descriptions                | Node.js, MCP SDK, MySQL        |
 | ✅ **[task-api](https://github.com/seshagiri-pentapati/task-api)**                             | Task management REST API with filters and sorting                          | Node.js, Express               |
+
+| Project                                                                                        | Description                                                                | Stack                          |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------ |
 | ⚛️ **[react-practice](https://github.com/seshagiri-pentapati/react-practice)**                 | Vite + React app with 6 demos + 2 guide websites                           | React, Vite, React Router      |
 | 🅰️ **[angular-practice](https://github.com/seshagiri-pentapati/angular-practice)**             | Angular 17 app with 3 demos + guide + 2 course repos                       | Angular, NgRx, RxJS            |
 | 🟢 **[node-practice](https://github.com/seshagiri-pentapati/node-practice)**                   | Express app with 6 route groups + 4 guide websites                         | Node.js, Express, Passport     |
